@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormWrapper should render a Box component 1`] = `
+.emotion-0 {
+  margin-top: 24px;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+}
+
+<body>
+  <div>
+    <div
+      class="MuiBox-root emotion-0"
+    />
+  </div>
+</body>
+`;
